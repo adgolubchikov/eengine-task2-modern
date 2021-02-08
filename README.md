@@ -1,6 +1,6 @@
 # This test task is created using create-react-app
 
-See below how to run or build it
+See below how to run or build it. Live version [here](https://eengine-task2-react.netlify.app/)
 
 ## Available Scripts
 
